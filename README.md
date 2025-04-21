@@ -1,10 +1,15 @@
 4.Execution_of_NetworkCommand
 
-AIM :Use of Network commands in Real Time environment
+AIM 
+Use of Network commands in Real Time environment
 
-SOFTWARE : Command Prompt And Network Protocol Analyzer
+SOFTWARE 
 
-PROCEDURE : To do this EXPERIMENT- follows these steps:
+Command Prompt And Network Protocol Analyzer
+
+PROCEDURE 
+
+To do this EXPERIMENT- follows these steps:
 
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer
 All commands related to Network configuration which includes how to switch to privilege mode
