@@ -1,10 +1,10 @@
-#4.Execution_of_NetworkCommand
+4.Execution_of_NetworkCommand
 
-##AIM :Use of Network commands in Real Time environment
+AIM :Use of Network commands in Real Time environment
 
-##Software : Command Prompt And Network Protocol Analyzer
+SOFTWARE : Command Prompt And Network Protocol Analyzer
 
-##Procedure: To do this EXPERIMENT- follows these steps:
+PROCEDURE : To do this EXPERIMENT- follows these steps:
 
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer
 All commands related to Network configuration which includes how to switch to privilege mode
@@ -18,7 +18,7 @@ This commands includes
 • IP Commands
 • Other IP Commands e.g. show ip route etc.
 
-##Program
+PROGRAM
 
 ```
 from scapy.all import* 
@@ -26,9 +26,9 @@ target = ["www.google.com"]
 result, unans = traceroute(target,maxttl=32) 
 print(result,unans)
 ```
-##Output
+OUTPUT
 
 ![Screenshot 2025-04-21 084957](https://github.com/user-attachments/assets/c19794a3-35b3-4e1c-8581-54bc32ff4e79)
 
-##Result
+RESULT
 Thus Execution of Network commands Performed 
